@@ -134,15 +134,6 @@ python app.py
 
 ---
 
-## Future Work
-
-- **Cloud Integration**: Integrate the system with a cloud-based database and authentication service for remote access and monitoring.
-- **Mobile App**: Develop a mobile app for user management and access control.
-- **Multi-Factor Authentication**: Add multi-factor authentication (e.g., RFID + PIN) to enhance security.
-- **Failover Mechanism**: Implement a failover mechanism using a secondary Raspberry Pi or cloud-based backup to ensure system availability.
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
